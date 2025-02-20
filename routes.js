@@ -21,4 +21,4 @@ router.post('/login', [
 	body('password', "The Password must be of minimum4characters length").notEmpty().trim().isLength({ min: 4 }),
 ], login);
 router.get('/getuser', getUser);
-module.exports = router;
+module.exports = router;

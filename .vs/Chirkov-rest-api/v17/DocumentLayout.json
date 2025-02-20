@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\routes.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\dbConnection.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dbConnection.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\controllers\\getUserController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controllers\\getUserController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\controllers\\loginController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controllers\\loginController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\controllers\\registerController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controllers\\registerController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "registerController.js",
+              "DocumentMoniker": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\controllers\\registerController.js",
+              "RelativeDocumentMoniker": "controllers\\registerController.js",
+              "ToolTip": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\controllers\\registerController.js",
+              "RelativeToolTip": "controllers\\registerController.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T08:52:29.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "loginController.js",
+              "DocumentMoniker": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\controllers\\loginController.js",
+              "RelativeDocumentMoniker": "controllers\\loginController.js",
+              "ToolTip": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\controllers\\loginController.js",
+              "RelativeToolTip": "controllers\\loginController.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T08:52:23.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "getUserController.js",
+              "DocumentMoniker": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\controllers\\getUserController.js",
+              "RelativeDocumentMoniker": "controllers\\getUserController.js",
+              "ToolTip": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\controllers\\getUserController.js",
+              "RelativeToolTip": "controllers\\getUserController.js",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T08:52:20.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbConnection.js",
+              "DocumentMoniker": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\dbConnection.js",
+              "RelativeDocumentMoniker": "dbConnection.js",
+              "ToolTip": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\dbConnection.js",
+              "RelativeToolTip": "dbConnection.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T08:03:49.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\index.js",
+              "RelativeDocumentMoniker": "index.js",
+              "ToolTip": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\index.js",
+              "RelativeToolTip": "index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T08:03:34.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "routes.js",
+              "DocumentMoniker": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\routes.js",
+              "RelativeDocumentMoniker": "routes.js",
+              "ToolTip": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\routes.js",
+              "RelativeToolTip": "routes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T08:03:02.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\chst\\Desktop\\\u0421\u0435\u0442\u0435\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0427\u0438\u0440\u043A\u043E\u0432_\u041F\u0415-22\u0411\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2\\Chirkov-rest-api\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T07:57:12.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

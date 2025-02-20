@@ -3,7 +3,7 @@ const conn = require('../dbConnection').promise();
 
 exports.getUser = async (req, res, next) => {
     try {
-        // Проверяем наличие и корректность заголовка Authorization
+
         if (
             !req.headers.authorization ||
             !req.headers.authorization.startsWith('Bearer ') ||
@@ -15,7 +15,7 @@ exports.getUser = async (req, res, next) => {
         }
 
         const theToken = req.headers.authorization.split(' ')[1];
-        const decoded = jwt.verify(theToken, 'the-super-strong-secrect'); // Убедитесь, что секрет совпадает
+        const decoded = jwt.verify(theToken, 'the-super-strong-secrect'); 
 
         const [row] = await conn.execute(
             "SELECT `id`, `name`, `email` FROM `users` WHERE `id`=?",
